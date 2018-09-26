@@ -1,0 +1,232 @@
+{
+	"cat 1" : {
+		"name" : "Programação",
+		"courses" : {
+			"course 1" : {
+				"name" : "Projeto Final de Design de Software",
+				"areas" : [
+					"Programação básica"
+				],
+				"text" : "O projeto encerra a matéria de Design de Software, onde o aluno necessita utilizar de todo seu aprendizado durante o curso para criar um meio de comunicação com um usuário podendo ser ele um jogo, um site ou um aplicativo.",
+				"goals": [
+					"Desenvolver programas de computador",
+					"Identificar e programar estratégias computacionais de resolução de problemas práticos",
+					"Atuar em uma equipe gerenciada por métodos ágeis"
+				]
+			},
+			"course 2" : {
+				"name" : "Projeto Final de Ciência dos Dados",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 3" : {
+				"name" : "Projeto Final de Co-Design de Aplicativos",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			}
+		}
+	},
+	"cat 2" : {
+		"name" : "Modelagem e Estudos Direcionados",
+		"courses" : {
+			"course 1" : {
+				"name" : "Projeto Final de Matemática da Variação",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 2" : {
+				"name" : "Projeto Final de Modelagem e Simulação",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 3" : {
+				"name" : "Projeto Final de Matemática Multivariada",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 4" : {
+				"name" : "Projeto Final de Desconstruindo a Matéria",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			}
+		}
+	},
+	"cat 3" : {
+		"name" : "Protótipos e Manufatura",
+		"courses" : {
+			"course 1" : {
+				"name" : "Estação Metereológica",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 2" : {
+				"name" : "Melhoria para Carroça de Catadores",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 3" : {
+				"name" : "Girafa do Job Rotation",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 4" : {
+				"name" : "Projeto Final de Modelagem e Controle",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 5" : {
+				"name" : "Projeto Final de Acionamentos Elétricos",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			}
+		}
+	},
+	"cat 4" : {
+		"name" : "Empreendedorismo e Inovação",
+		"courses" : {
+			"course 1" : {
+				"name" : "Inovação Incremental para Empresa existente",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 2" : {
+				"name" : "Modelo de Negócio para Startup Nova",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			},
+			"course 3" : {
+				"name" : "Cases de Grandes Desafios da Engenharia",
+				"areas" : [
+					"area 1",
+					"area 2",
+					"area 3"
+				],
+				"text" : "lorem ipsum",
+				"goals": [
+					"objective 1",
+					"objective 2",
+					"objective 3"
+				]
+			}
+		}
+	}
+}
+
+
