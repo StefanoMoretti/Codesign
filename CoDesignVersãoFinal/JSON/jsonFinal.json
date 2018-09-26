@@ -1,8 +1,8 @@
 {
-	"cat 1" : {
+	"Programação" : {
 		"name" : "Programação",
 		"courses" : {
-			"course 1" : {
+			"Projeto Final de Design de Software" : {
 				"name" : "Projeto Final de Design de Software",
 				"areas" : [
 					"Programação básica"
@@ -12,9 +12,10 @@
 					"Desenvolver programas de computador",
 					"Identificar e programar estratégias computacionais de resolução de problemas práticos",
 					"Atuar em uma equipe gerenciada por métodos ágeis"
-				]
+				],
+				"categoria":"Programação"
 			},
-			"course 2" : {
+			"Projeto Final de Ciência dos Dados" : {
 				"name" : "Projeto Final de Ciência dos Dados",
 				"areas" : [
 					"Introdução à estatística e probabilidade",
@@ -25,11 +26,12 @@
 					"Elaborar análises exploratórias de dados, utilizando ferramentas estatísticas e computacionais adequadas",
 					"Selecionar informações de bancos de dados, tratá-los e prepará-los para processamento",
 					"Especificar as distribuições de probabilidades adequadas para as variáveis quantitativas discretas e contínuas. ",
-					"Conduzir testes inferenciais adequados que possam dar base à tomada de decisão.", 
+					"Conduzir testes inferenciais adequados que possam dar base à tomada de decisão.",
 					"Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas."
-				]
+				],
+				"categoria":"Programação"
 			},
-			"course 3" : {
+			"Projeto Final de Co-Design de Aplicativos" : {
 				"name" : "Projeto Final de Co-Design de Aplicativos",
 				"areas" : [
 					"Design",
@@ -42,14 +44,15 @@
 					"Criar conceitos de aplicativos a partir de questões de projetos.",
 					"Aplicar ferramentas de design gráfico e tecnologias de front-end web em prototipação digital. ",
 					"Avaliar protótipos digitais a partir de usuários e cenários."
-				]
+				],
+				"categoria":"Programação"
 			}
 		}
 	},
-	"cat 2" : {
+	"Modelagem e Estudos Direcionados" : {
 		"name" : "Modelagem e Estudos Direcionados",
 		"courses" : {
-			"course 1" : {
+			"Projeto Final de Matemática da Variação" : {
 				"name" : "Projeto Final de Matemática da Variação",
 				"areas" : [
 					"Matemática",
@@ -62,9 +65,10 @@
 					"Utilizar os conceitos e ferramentas vistos no curso para criar modelos de situações da realidade, envolvendo principalmente equações diferenciais, com o objetivo de estabelecer previsões tomar decisões (OA3). ",
 					"Utilizar ferramentas da Álgebra Linear para resolver modelos matemáticos originados da caracterização de sistemas dinâmicos (OA4). ",
 					"Aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente (OA5)."
-				]
+				],
+				"categoria":"Modelagem e Estudos Direcionados"
 			},
-			"course 2" : {
+			"Projeto Final de Modelagem e Simulação" : {
 				"name" : "Projeto Final de Modelagem e Simulação",
 				"areas" : [
 					"Física",
@@ -78,9 +82,10 @@
 					"Utilizar técnicas comuns de validação de modelos a partir de dados dos sistemas reais correspondentes.",
 					"Elaborar conclusões a partir do comportamento observado para os modelos simulados.",
 					"Comunicar oralmente um conteúdo técnico, com auxílio de um cartaz e/ou apresentação de slides"
-				]
+				],
+				"categoria":"Modelagem e Estudos Direcionados"
 			},
-			"course 3" : {
+			"Projeto Final de Matemática Multivariada" : {
 				"name" : "Projeto Final de Matemática Multivariada",
 				"areas" : [
 					"Matemática",
@@ -93,9 +98,10 @@
 					"Interpretar e calcular, usando diferentes técnicas, integrais de funções de uma ou mais variáveis reais (OA3). ",
 					"Utilizar os conceitos e ferramentas vistos no curso para interpretar e criar modelos de situações da realidade, com o objetivo de estabelecer previsões e tomar decisões (OA4). ",
 					"Aprimorar sua autonomia em relação ao conhecimento matemático e comunicar esse conhecimento usando adequadamente a linguagem matemática (OA5)."
-				]
+				],
+				"categoria":"Modelagem e Estudos Direcionados"
 			},
-			"course 4" : {
+			"Projeto Final de Desconstruindo a Matéria" : {
 				"name" : "Projeto Final de Desconstruindo a Matéria",
 				"areas" : [
 					"Química",
@@ -107,14 +113,15 @@
 					"Relacionar as propriedades físicas dos materiais com sua composição química e microestrutura; ",
 					"Realizar ensaios tecnológicos e experimentos com o intuito de caracterizar de materiais; ",
 					"Analisar tecnicamente e criticamente um problema em Seleção de Materiais."
-				]
+				],
+				"categoria":"Modelagem e Estudos Direcionados"
 			}
 		}
 	},
-	"cat 3" : {
+	"Protótipos e Manufatura" : {
 		"name" : "Protótipos e Manufatura",
 		"courses" : {
-			"course 1" : {
+			"Estação Metereológica" : {
 				"name" : "Estação Metereológica",
 				"areas" : [
 					"Física´Elétrica",
@@ -130,13 +137,14 @@
 					"Aquisitar dados de fenômenos físicos com o emprego de sensores/transdutores e meicrocontroladores.",
 					"Aplicar os conceitos de incerteza, exatidão, precisão, resolução, repetibilidade e sensibilidade nas atividades.",
 					"Analisar e apresentar dados utilizando ferramentas estatísticas básicas"
-				]
+				],
+				"categoria":"Protótipos e Manufatura"
 			},
-			"course 2" : {
+			"Melhoria para Carroça de Catadores" : {
 				"name" : "Melhoria para Carroça de Catadores",
 				"areas" : [
 					"Design Thinking",
-					"Uso do Fab Lab"	
+					"Uso do Fab Lab"
 				],
 				"text" : "A matéria de Natureza do Design junto com a organização Pimp my Carroça desenvolveram o projeto final o qual os alunos devem desenvolver possíveis melhorias para carroças de catadores.",
 				"goals": [
@@ -148,28 +156,30 @@
 					"Prototipagem - Utilizar técnicas de fabricação digital para prototipar soluções",
 					"Aprender pelo projeto - Compreender o projeto de design como forma de aprendizagem pelo fazer (hands-on).",
 					"Trabalho em equipe - Entender o trabalho em equipe como importante fator no processo de design, com crescente consciência dos papéis a serem executados durante o projeto."
-				]
+				],
+				"categoria":"Protótipos e Manufatura"
 			},
-			"course 3" : {
+			"Girafa do Job Rotation" : {
 				"name" : "Girafa do Job Rotation",
 				"areas" : [
 					"Design Thinking",
 					"Manuseamento de maquinário"
-					
+
 				],
 				"text" : "Ao utilizar o Fab Lab os alunos são instruídos por técnicos sobre como utilizar o maquinário para que no futuro os alunos usem o laboratório e suas maquinas de forma autônoma.",
 				"goals": [
 					"Aprender sobre o funcionamento de maquinário",
 					"Se tornar autônomo ao necessitar utilizar o maquinário"
 
-				]
+				],
+				"categoria":"Protótipos e Manufatura"
 			},
-			"course 4" : {
+			"Projeto Final de Modelagem e Controle" : {
 				"name" : "Projeto Final de Modelagem e Controle",
 				"areas" : [
 					"Física Elétrica",
 					"Física Mecânica"
-					
+
 				],
 				"text" : "Modelagem de sistemas dinâmicos no domínio da frequência. Análise da resposta transitória de sistemas realimentados. Caracterização da estabilidade de sistemas dinâmicos. Análise da resposta em regime permanente de sistemas realimentados. Síntese de controladores PID.",
 				"goals": [
@@ -179,9 +189,10 @@
 					"Analisar a relação entre os polos e zeros da função transferência e o comportamento dinâmico do sistema; ",
 					"Simular a resposta temporal de sistemas dinâmicos; ",
 					"Ajustar os parâmetros de uma malha de controle proporcional, PD e PID para que o controlador correspondente siga determinadas especificações funcionais"
-				]
+				],
+				"categoria":"Protótipos e Manufatura"
 			},
-			"course 5" : {
+			"Projeto Final de Acionamentos Elétricos" : {
 				"name" : "Projeto Final de Acionamentos Elétricos",
 				"areas" : [
 					"Física Elétrica"
@@ -193,14 +204,15 @@
 					"Simular circuitos elétricos; ",
 					"Projetar um circuito elétrico para o acionamento de cargas de natureza variada utilizando a estratégia de modulação por largura de pulso (PWM);",
 					"Selecionar componentes a serem utilizados nos projetos valendo-se de datasheets e fontes de informação fornecidas pelos fabricantes."
-				]
+				],
+				"categoria":"Protótipos e Manufatura"
 			}
 		}
 	},
-	"cat 4" : {
+	"Empreendedorismo e Inovação" : {
 		"name" : "Empreendedorismo e Inovação",
 		"courses" : {
-			"course 1" : {
+			"Inovação Incremental para Empresa existente" : {
 				"name" : "Inovação Incremental para Empresa existente",
 				"areas" : [
 					"area 1",
@@ -212,9 +224,10 @@
 					"objective 1",
 					"objective 2",
 					"objective 3"
-				]
+				],
+				"categoria":"Empreendedorismo e Inovação"
 			},
-			"course 2" : {
+			"Modelo de Negócio para Startup Nova" : {
 				"name" : "Modelo de Negócio para Startup Nova",
 				"areas" : [
 					"area 1",
@@ -226,9 +239,10 @@
 					"objective 1",
 					"objective 2",
 					"objective 3"
-				]
+				],
+				"categoria":"Empreendedorismo e Inovação"
 			},
-			"course 3" : {
+			"Cases de Grandes Desafios da Engenharia" : {
 				"name" : "Cases de Grandes Desafios da Engenharia",
 				"areas" : [
 					"Ética",
@@ -240,10 +254,9 @@
 					"Entender e explicar as relações interdisciplinares entre ciência, tecnologia e sociedade; ",
 					"Comparar e prever os efeitos de diferentes escolhas tecnológicas em distintos contextos sociais e econômicos;",
 					"Analisar e avaliar os usos sociais da tecnologia à luz de temas contemporâneos."
-				]
+				],
+				"categoria":"Empreendedorismo e Inovação"
 			}
 		}
 	}
 }
-
-

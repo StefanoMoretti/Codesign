@@ -22,7 +22,7 @@
 
 
 		<body>
-		
+
 			<header>
 				<div class = 'boxi'>
 					<img id = 'logo' src="Insper-negativoapp.png" alt='#'>
@@ -34,12 +34,12 @@
 					</nav>
 				</div>
 			</header>
-			
+
 
 
 			<h1 id="Título_principal">Projetos Engenharia</h1>
 
-			<div class = 'boxtit'>	
+			<div class = 'boxtit'>
 
 					<div class = 'prog'>
 						<div class = "box1">
@@ -51,12 +51,12 @@
 								   <img src="setaUp.png" alt="#" class="fotoSetaUp">
 							</div>
 							<ul class = 'list' id="list1">
-								{{#each goals as |goal index|}}
-        							<li class="item">{{goal.name}}</li>
-      							{{/each}}
+								{{#each items as |item index|}}
+        					<li class="item"><a href="EM_INDEX.html?category={{categoria}}&course={{index}}">{{index}}</a></li>
+      					{{/each}}
 
 							</ul>
-							
+
 						</div>
 					</div>
 
@@ -72,13 +72,13 @@
 							</div>
 
 							<ul class = 'list' id="list2">
-								{{#each goals as |goal index|}}
-        							<li class="item">{{goal.name}}</li>
-      							{{/each}}
+								{{#each items as |item index|}}
+        					<li class="item"><a href="EM_INDEX.html?category={{categoria}}&course={{index}}">{{index}}</a></li>
+      					{{/each}}
 
 							</ul>
-							
-						</div>			
+
+						</div>
 					</div>
 
 					<div class = 'pep'>
@@ -91,18 +91,18 @@
 								   <img src="setaUp.png" alt="#" class="fotoSetaUp ">
 							</div>
 							<ul class = 'list' id = "list3">
-								{{#each goals as |goal index|}}
-       								 <li class="item">{{goal.name}}</li>
-      							{{/each}}	
+								{{#each items as |item index|}}
+        					<li class="item"><a href="EM_INDEX.html?category={{categoria}}&course={{index}}">{{index}}</a></li>
+      					{{/each}}
 
   							</ul>
-  							
+
   						</div>
 					</div>
 
 					<div class = 'ted'>
 						<div class = "box4">
-			
+
 						<h2 id = "h5" class = 'tit'>{{name}}</h2>
 							<div id = "seta4" class = 'seta '>
 								   <img src="seta.png" alt="#" class="fotoSeta">
@@ -111,12 +111,12 @@
 								   <img src="setaUp.png" alt="#" class="fotoSetaUp">
 							</div>
 							<ul class = 'list' id = "list4">
-								{{#each goals as |goal index|}}
-        							<li class="item">{{goal.name}}</li>
-      							{{/each}}
-															
+								{{#each items as |item index|}}
+        					<li class="item"><a href="EM_INDEX.html?category={{categoria}}&course={{index}}">{{index}}</a></li>
+      					{{/each}}
+
 							</ul>
-							
+
 						</div>
 					</div>
 
@@ -128,19 +128,19 @@
 
 				<div class = 'comp'>
 					<h2 id = "comp" class = 'tit'>Computação</h2>
-						
-				</div>			
-				
+
+				</div>
+
 
 				<div class = 'mec'>
 					<h2 id = "mec" class = 'tit'>Mecânica</h2>
-						
-									
+
+
 				</div>
-				
+
 				<div class = 'mecat'>
 					<h2 id = "mecat" class = 'tit'>Mecatrônica</h2>
-					
+
 				</div>
 
 			</div> -->
